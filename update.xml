@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
+  <app appid='blckbpgnnfgmjicijhdldnajllmicpod'>
+    <updatecheck status='ok'>
+      <urls>
+        <url codebase='https://raw.githubusercontent.com/s-vernberg/Hedda_Wisingskolan/main/'/>
+      </urls>
+      <manifest version='1.0.0'>
+        <packages>
+          <package name='Hedda-Filter.crx' hash_sha256='2d06e665813bfe82b6e17f109adc03320e3492662e093ecda321e47b6deefa19' size='726085' required='true'/>
+        </packages>
+      </manifest>
+    </updatecheck>
+  </app>
+</gupdate>
